@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Review Autoreply",
   "version": "1.0",
-  "description": "Helping me reply to reviews with AI",
+  "description": "Automated review replies",
   "permissions": ["activeTab"],
   "action": {
     "default_popup": "popup.html"
